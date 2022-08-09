@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022 on 小鱼 钓狗</title>
+    <link>http://localhost:1313/categories/2022/</link>
+    <description>Recent content in 2022 on 小鱼 钓狗</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 09 Aug 2022 17:17:24 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客搭建纪念</title>
+      <link>http://localhost:1313/posts/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%BA%AA%E5%BF%B5/</link>
+      <pubDate>Tue, 09 Aug 2022 17:17:24 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%BA%AA%E5%BF%B5/</guid>
+      <description>没什么要写的！！就是纪念一下！！ 虽然说今天才终于把（静态）博客搭起来，但是其实从2020年暑假开始就已经在研究各种各样的博客了。今天鼓励我把这个博客搭起来的stimulus其实是从上周开始就在思考的“</description>
+    </item>
+    
+  </channel>
+</rss>
